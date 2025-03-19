@@ -1,9 +1,15 @@
 ## Hi there, I'm Krish Baryashah! 👋
+
 🚀 About Me
+
 🎓 Computer Science Student at FGDC (Federal Government Degree College)
+
 💻 Currently learning Full Stack Web Development at SMIT (Saylani Mass IT Training)
+
 🔥 Passionate about coding, problem-solving, and building innovative web applications
+
 🛠️ Tech Stack
+
 Frontend: HTML, CSS, JavaScript, React
 Backend: Node.js, Express
 Database: MongoDB, MySQL
